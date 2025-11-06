@@ -185,7 +185,7 @@ The final weeks of the cohort should mark the finalization of your project. Subm
 | [Ritesh](https://github.com/Dyslex7c)                  |              |                      |
 | [Sambhav](https://github.com/DarkLord017)              |              |                      |
 | [Sato](https://github.com/githubgitlabuser)            |              |                      |
-| [Shane](https://github.com/shane-moore/)               |              |                      |
+| [Shane](https://github.com/shane-moore/)               | [ePBS in Lighthouse](https://hackmd.io/@blockshane/HJjV4I91Ze)             |                      |
 | [Shariq](https://github.com/shariqnaiyer)              |              |                      |
 | [Shourya](https://github.com/18aaddy)                  |              |                      |
 | [Soubhik](https://github.com/Soubhik-10)               |              |                      |
