@@ -156,6 +156,43 @@ The actual project development is the main part of the program. Post your regula
 
 The final weeks of the cohort should mark the finalization of your project. Submit your last dev update which is reflecting the overall project progress, its next steps and your experience with EPF. You can also link a video or document presenting the final stage of your project.
 
-| Name/GH | Final report | Project presentation |
-|---------|--------------|----------------------|
-|         |              |                      |
+| Name/GH                                                | Final Report | Project Presentation |
+| ------------------------------------------------------ | ------------ | -------------------- |
+| [Aman](https://github.com/0xprivateChaos)              |              |                      |
+| [Brage](https://github.com/2xic)                       |              |                      |
+| [Charlie](https://github.com/Charlie-Mack)             |              |                      |
+| [Developeruche](https://github.com/developeruche)      |              |                      |
+| [Dimitris](https://gitlab.com/dmitsios)                |              |                      |
+| [Ellie](https://github.com/0xEllie)                    |              |                      |
+| [Faheel](https://github.com/faheelsattar)              |              |                      |
+| [Grapebaba](https://github.com/GrapeBaBa)              |              |                      |
+| [Harrish](https://github.com/haxry)                    |              |                      |
+| [Harsh Pratap Singh](https://github.com/harsh-ps-2003) |              |                      |
+| [Irene](https://github.com/IreneBa26)                  |              |                      |
+| [Jay](https://github.com/jveer634)                     |              |                      |
+| [Jimmy Chu](https://github.com/jimmychu0807)           |              |                      |
+| [Jun](https://github.com/syjn99)                       |              |                      |
+| [Li@only4sim](https://github.com/only4sim)             |              |                      |
+| [Nando](https://github.com/fernantho/)                 |              |                      |
+| [Owanikin](https://github.com/owanikin)                |              |                      |
+| [Pelle](https://github.com/pellekrab)                  |              |                      |
+| [Peter](https://github.com/pbkompasz)                  |              |                      |
+| [Poulav](https://github.com/PoulavBhowmick03)          |              |                      |
+| [Preeti](https://github.com/pr9t)                      |              |                      |
+| [Prototype](https://github.com/ShiroObiJohn)           |              |                      |
+| [Rahul](https://github.com/guha-rahul)                 |              |                      |
+| [Rimeeeeee](https://github.com/Rimeeeeee)              |              |                      |
+| [Ritesh](https://github.com/Dyslex7c)                  |              |                      |
+| [Sambhav](https://github.com/DarkLord017)              |              |                      |
+| [Sato](https://github.com/githubgitlabuser)            |              |                      |
+| [Shane](https://github.com/shane-moore/)               |              |                      |
+| [Shariq](https://github.com/shariqnaiyer)              |              |                      |
+| [Shourya](https://github.com/18aaddy)                  |              |                      |
+| [Soubhik](https://github.com/Soubhik-10)               |              |                      |
+| [Tamaghna](https://github.com/RazorClient)             |              |                      |
+| [Utsav](https://github.com/x-senpai-x)                 |              |                      |
+| [Vedant](https://github.com/vedant-asati)              |              |                      |
+| [Vineet](https://github.com/vineetpant)                |              |                      |
+| [Vlladin](https://github.com/vlladin)                  |              |                      |
+| [Vukašin Marković](https://github.com/sntntn)          |              |                      |
+
