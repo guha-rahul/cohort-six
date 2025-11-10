@@ -171,7 +171,7 @@ The final weeks of the cohort should mark the finalization of your project. Subm
 | [Irene](https://github.com/IreneBa26)                  |              |                      |
 | [Jay](https://github.com/jveer634)                     |              |                      |
 | [Jimmy Chu](https://github.com/jimmychu0807)           |              |                      |
-| [Jun](https://github.com/syjn99)                       |              |                      |
+| [Jun](https://github.com/syjn99)                       | [SSZ-QL in Prysm](https://epf.junsong.xyz/)                    |                      |
 | [Li@only4sim](https://github.com/only4sim)             |              |                      |
 | [Nando](https://github.com/fernantho/)                 |              |                      |
 | [Owanikin](https://github.com/owanikin)                |              |                      |
