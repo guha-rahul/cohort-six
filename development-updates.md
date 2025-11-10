@@ -167,7 +167,7 @@ The final weeks of the cohort should mark the finalization of your project. Subm
 | [Faheel](https://github.com/faheelsattar)              |              |                      |
 | [Grapebaba](https://github.com/GrapeBaBa)              |              |                      |
 | [Harrish](https://github.com/haxry)                    |              |                      |
-| [Harsh Pratap Singh](https://github.com/harsh-ps-2003) |              |                      |
+| [Harsh Pratap Singh](https://github.com/harsh-ps-2003) | [Final Report](https://hackmd.io/@harsh-ps-2003/SJZ-VnV1bx) | [Project Presentation](https://docs.google.com/presentation/d/1Qz9YDLsE8nt0Cl8As3hZdpbmwMCu1iJRXBaqhjW_QDQ/edit?usp=sharing) |
 | [Irene](https://github.com/IreneBa26)                  |              |                      |
 | [Jay](https://github.com/jveer634)                     |              |                      |
 | [Jimmy Chu](https://github.com/jimmychu0807)           |              |                      |
